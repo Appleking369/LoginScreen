@@ -57,8 +57,8 @@ namespace LoginScreen
                 MessageBox.Show("로그인 성공"); 
             } 
             else 
-            { 
-                MessageBox.Show("로그인 실패"); 
+            {
+                MessageBox.Show("로그인 실패");
             }
         }
     }
