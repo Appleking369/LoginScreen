@@ -20,6 +20,8 @@
  -과제1 코드와 실행 스크린샷
 
  ![과제1 실행화면](img/screenshot-1.png)
+ ![과제1 실행화면2](img/screenshot-2.png)
+ ![과제1 실행화면3](img/screenshot-3.png)
 
  -과제 내용
   -Label(제목), TextBox(아이디와 패스워드 입력), Button(로그인)을 배치합니다.
